@@ -1,4 +1,4 @@
-var myFriend="Janathul";
+var myFriend="Ram";
 function greetings() {
   return(myFriend);
 }
