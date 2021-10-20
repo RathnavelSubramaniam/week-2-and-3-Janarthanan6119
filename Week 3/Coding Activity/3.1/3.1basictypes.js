@@ -1,6 +1,6 @@
-var myFirstName = "anu";
+var myFirstName = "Jana";
 var numberOfCities = 5;
-var havingFun = true;
+var havingFun = false;
 console.log(typeof (myFirstName));
 console.log(typeof (numberOfCities));
 console.log(typeof (havingFun));
