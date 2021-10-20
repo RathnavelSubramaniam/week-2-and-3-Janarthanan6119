@@ -8,9 +8,9 @@ Follow the instructions - Create a function called "isString" that takes 3 argum
 function isString(a,b,c)
 
 {
-    var a="Kavya";
-    var b="Anu";
-    var c="23";
+    var a="Hari";
+    var b="puppy";
+    var c="28";
     
     {
         if( ((typeof a)=="string") && ((typeof b)=="string") && ((typeof c)=="string"))
